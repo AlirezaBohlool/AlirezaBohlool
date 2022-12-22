@@ -40,4 +40,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&&color=0:1F51FF,100:a82da8"/>
