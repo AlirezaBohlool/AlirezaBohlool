@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there I'm Alireza 👋
 
-**AlirezaBohlol/AlirezaBohlol** 
 
 Here are some ideas to get you started:
 
