@@ -1,7 +1,7 @@
 ### Hi there I'm Alireza 👋
 
 
-Here are some ideas to get you started:
+Here are some thinge about me:
 
 - 🔭 I’m currently working on tech MERN app
 - 🌱 I’m currently learning stack javascripte
