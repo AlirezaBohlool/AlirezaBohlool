@@ -30,12 +30,12 @@ Here are some thinge about me:
 <div align="center">
 <p >
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,bootstrap,redux" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,bootstrap,redux,materialui,postgresql" />
   </a>
 </p>
 <p >
   <a href="#" >
-    <img src="https://skillicons.dev/icons?i=,,,,,mysql,github,mongodb,express,nextjs,nodejs,sass,materialui" />
+    <img src="https://skillicons.dev/icons?i=,,,,,javascript,mysql,redis,mongodb,express,nestjs,typescript,nodejs,docker,linux," />
   </a>
 </p>
 </div>
