@@ -30,7 +30,7 @@ Here are some thinge about me:
 <div align="center">
 <p >
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,bootstrap,redux,materialui,postgresql" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,bootstrap,redux,materialui,postgresql" />
   </a>
 </p>
 <p >
