@@ -1,10 +1,10 @@
 ### Hi there I'm Alireza 👋
 
 
-Here are some thinge about me:
+Here are some things about me:
 
-- 🔭 I’m currently working on tech MERN app
-- 🌱 I’m currently learning stack javascripte
+- 🔭 I’m currently working on the tech MERN app
+- 🌱 I’m currently learning stack javascript
 - 📫 How to reach me: 
 - ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/AlirezaBohlol?tab=repositories)
@@ -30,12 +30,12 @@ Here are some thinge about me:
 <div align="center">
 <p >
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,bootstrap,redux,materialui,postgresql" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,html,css,bootstrap,redux,materialui,sass" />
   </a>
 </p>
 <p >
   <a href="#" >
-    <img src="https://skillicons.dev/icons?i=,,,,,javascript,mysql,redis,mongodb,express,nestjs,typescript,nodejs,docker,linux," />
+    <img src="https://skillicons.dev/icons?i=,,,,,,git,mysql,mongodb,express,nestjs,nodejs,docker,linux," />
   </a>
 </p>
 </div>
